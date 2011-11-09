@@ -33,6 +33,6 @@ I haven't had a chance to test it, yet.
 
 ## Uh... thank you's
 
-This gem is just a quick attempt to extract those stylesheets from my
-applications is a centralized location. So, most of the copyrigts go to Blueprint
+This gem is just a quick attempt to extract blueprint stylesheets from my
+applications in a centralized location. So, most of the copyrights go to Blueprint
 and jquery-rails contributors (beer's on me). Thank you guys!
