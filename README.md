@@ -20,11 +20,8 @@ To use it in your application, just include this gem in your Gemfile:
 
 And then, in your `app/assets/stylesheets/application.css`:
 
-    /* ...
-     *= require reset
-     *= require typography
-     *= require grid
-     * ...
+    /*
+     *= require blueprint
      */
 
 ## Rails 3.0
